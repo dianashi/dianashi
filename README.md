@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning python 
 - 📫 Feel free to reach out to me at y337shi@uwaterloo.ca for questions or collabs
 
- [![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
+ [![Updated Badge](https://badges.pufler.dev/updated/dianashi/dianashi)](https://badges.pufler.dev)
 
 <!---
 dianashi/dianashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
