@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/diana-shi-978054202">
   <img align="left" alt="Diana's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://facebook.com/dianashi">
+<a href="https://www.facebook.com/profile.php?id=100012798853762">
   <img alt="Facebook" height="32" width="32" src="assets/facebook.svg">
 </a>
 
