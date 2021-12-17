@@ -1,4 +1,7 @@
 # Hello, this is Diana Shi 👋
+
+[![](https://img.shields.io/website?color=CCCCFF&style=flat-square&up_message=yiranshi.com&url=https%3A%2F%2Fxlbd.me)](http://www.yiranshi.com/)
+
 <a href="https://www.linkedin.com/in/diana-shi-978054202">
   <img alt="Diana's LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
@@ -12,7 +15,7 @@
 </a>
 </br>
 
-[![](https://img.shields.io/website?color=CCCCFF&style=flat-square&up_message=yiranshi.com&url=https%3A%2F%2Fxlbd.me)](http://www.yiranshi.com/)
+
 
 </br>
 <p align="center">
@@ -27,6 +30,9 @@
 - 👀 I’m interested in badminton, piano and maybe singing [only if I am good at the song ♪(´▽｀)]
 - 🌱 I’m currently learning python 
 - 📫 Feel free to reach out to me at y337shi@uwaterloo.ca for questions or collabs
+
+## Languages and Tools
+
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/dianashi/dianashi)
