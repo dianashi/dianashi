@@ -44,7 +44,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dianashi&show_icons=true&theme=nightowl" alt="dianashi" />
 
-![GitHub last commit](https://img.shields.io/github/last-commit/dianashi/dianashi)
+![GitHub last commit](https://img.shields.io/github/last-commit/dianashi/GasMap)
 <!---
 dianashi/dianashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
