@@ -24,7 +24,7 @@
 
 </br>
 
-- 👩🏼‍🎓 Hi, I’m Diana, a second year computer science student at the University of Waterloo
+- 👩🏼‍🎓 Hi, I’m Diana, a thrid year computer science student at the University of Waterloo
 - 👩‍💼 I'm currently working as a fullstack developer in Vancouver
 - 👀 I’m interested in badminton, piano and maybe singing [only if I am good at the song ♪(´▽｀)]
 - 🌱 I’m currently learning python 
