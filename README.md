@@ -25,7 +25,7 @@
 </br>
 
 - 👩🏼‍🎓 Hi, I’m Diana, a thrid year computer science student at the University of Waterloo
-- 👩‍💼 I'm currently working as a software engineer at DoorDash
+- 👩‍💼 I'm currently working as a software engineer intern at DoorDash
 - 👀 I’m interested in badminton, piano and maybe singing [only if I am good at the song ♪(´▽｀)]
 - 🌱 I’m currently learning python 
 - 📫 Feel free to reach out to me at y337shi@uwaterloo.ca for questions or collabs
